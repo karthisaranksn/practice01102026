@@ -2,6 +2,7 @@
 
 echo "Hello, world!"
 echo "Current date and time: $(date)"
+echo "checking vs code terminal"
 
 name="Alice"
 echo "Hi, $name!"
